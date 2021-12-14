@@ -1,4 +1,4 @@
-# ojo !!!!! cambiar los tre campos estos y el h1 index.html
+#   ojo !!!!! cambiar los tre campos estos y el h1 index.html
 # 1./ subirlo a s3
 # mkdocs build
 # .s3.static monitorizacion.solar
