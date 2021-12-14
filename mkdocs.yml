@@ -1,0 +1,116 @@
+# ojo !!!!! cambiar los tre campos estos y el h1 index.html
+# 1./ subirlo a s3
+# mkdocs build
+# .s3.static monitorizacion.solar
+# 2./ en namecheap
+
+# site_url: http://monitorizacion.solar
+# site_url: http://ayudas.solar
+# site_url: http://prg.engineer
+# site_url: http://prg.solar
+# site_url: http://proyecto.solar
+# site_url: http://tejado.solar
+# site_url: https://asolear.es
+
+site_name: Instalaciones para Autoconsumo
+# site_name: ayudas.solar
+# site_name: prg.engineer
+# site_name: prg.solar
+# site_name: proyecto.solar
+# site_name: tejado.solar
+# site_name: asolear
+
+# copyright: © 2021 Monitorizacion 
+# copyright: © 2021 Instalaciones Electricas 
+# copyright: © 2021 prg.engineer
+# copyright: © 2021 prg.solar
+# copyright: © 2021 proyecto.solar
+# copyright: © 2021 tejado.solar
+# copyright: © 2021 Asolear 
+
+theme:
+  features:
+    - header.autohide
+  language: es
+  palette:
+    primary: amber
+  name: material
+  language: es
+  favicon: assets/favicon.ico
+  logo: assets/logo.svg
+  features:
+    - navigation.tabs
+    - toc.integrate
+    # - navigation.tabs.sticky
+    # - navigation.instant
+
+
+
+markdown_extensions:
+  - meta
+  - tables
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - search
+  - mknotebooks
+  # - blog:
+  #     format: "(%m/%d/%y)"
+  #     text-align: "right"
+  #     display-article-date: False
+  #     folder: documento
+
+
+  - blogging:
+      dirs:
+        - estudios
+      template: override/blog-override.html
+
+extra:
+  analytics:
+    provider: google
+    property: G-BY8HY373BD
+  fig:
+    url: https://flaskimg-yzohicfcma-ew.a.run.app/
+    # url: http://192.168.1.113:8080/
+  alternate:
+    - name: Español
+      link: /
+      lang: es
+    - name: English
+      link: /en/ # 
+      lang: en
+  consent:
+      title: This website uses cookies
+      description: >
+          We use cookies to recognize your repeated visits and preferences, as well
+          as to measure the effectiveness of our documentation and whether users
+          find what they're searching for. With your consent, you're helping us to
+          make our documentation better.
+
+
+extra_css:
+    - css/extra.css
+
+
+extra_javascript:
+  - javascripts/config.js
+  # - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
+
