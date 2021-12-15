@@ -20,13 +20,14 @@
     Instala un sistema solar fotovoltaica de 3 kW con una inversión de 4.500€. El incentivo que podría corresponderle es de 1.800€ (600 euros por kW), con lo que el coste neto es de 2700 €.
 
     
-???+ " ¿Cuánto tardo en amortizar la inversion ?, 7 anos [Contáctanos :material-email:](Contacto){ .md-button .md-button--primary }"
+???+ " ¿Cuánto tardo en amortizar la inversion ?, 8 años [Contáctanos :material-email:](Contacto){ .md-button .md-button--primary }"
 
     ![Image title](../img/generacion-carga.png){ width="200" align=left }
-    Depende de su capacidad para ajustar su consumo (gris en la figura) a las horas de sol (amarillos en la figura), de los precios a que se hubiera comprado lo autoconsumido y vendido el excedente. Normalemnte la amortizaria  en unos 7 anos.
+    La amortización en una instalación en autoconsumo estaría
+    entre seis y diez años, ya que depende  del uso que se haga de la energía, de su capacidad para ajustar su consumo (gris en la figura) a las horas de sol (amarillos en la figura), de los precios a que se hubiera comprado lo autoconsumido y vendido el excedente. 
 
 
-???+ " ¿cuánto me ahorro?[Contáctanos :material-email:](Contacto){ .md-button .md-button--primary }"
+???+ " ¿necesito baterías? ¿tengo que regalar la energía sobrante?[Contáctanos :material-email:](Contacto){ .md-button .md-button--primary }"
 
     ![Image title](../img/ja.png){ width="200" align=left }
     Hogar medio en el que conviven cuatro personas con un consumo anual estimado de unos 6.000 kWh instala solar fotovoltaica de 4 kW con una inversión de 5.500€. El incentivo que podría corresponderle es de 2.400€ (600 euros por unidad de potencia en instalaciones de hasta 10 kWp). Si esa misma instalación se hiciera de forma colectiva, compartida por varios propietarios, el incentivo subiría a 2.840€ (710 euros por unidad de potencia en instalaciones de hasta 10 kWp).
