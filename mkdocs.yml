@@ -40,7 +40,7 @@ theme:
   logo: assets/logo.svg
   features:
     - navigation.tabs
-    - toc.integrate
+    # - toc.integrate
     # - navigation.tabs.sticky
     # - navigation.instant
 
