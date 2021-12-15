@@ -12,7 +12,7 @@
 # site_url: http://tejado.solar
 # site_url: https://asolear.es
 
-site_name: Instalaciones para Autoconsumo
+site_name: IncentivosSolar
 # site_name: ayudas.solar
 # site_name: prg.engineer
 # site_name: prg.solar
@@ -75,10 +75,10 @@ plugins:
   #     folder: documento
 
 
-  - blogging:
-      dirs:
-        - estudios
-      template: override/blog-override.html
+  # - blogging:
+  #     dirs:
+  #       - estudios
+  #     template: override/blog-override.html
 
 extra:
   analytics:
@@ -108,9 +108,10 @@ extra_css:
 
 
 extra_javascript:
-  - javascripts/config.js
-  # - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  # - javascripts/config.js
+  # # - https://polyfill.io/v3/polyfill.min.js?features=es6
+  # - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 
 
 
