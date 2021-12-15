@@ -16,7 +16,7 @@
 
 ???+ " ¿Cuánto me cuesta descontando la Ayuda?, 2700 €  [Contáctanos :material-email:](Contacto){ .md-button .md-button--primary }"
 
-    ![Image title](../img/builder-2025358_1280.png){ width="100" align=right }
+    ![Image title](../img/technician-3577933_1280.png){ width="100" align=right }
     Instala un sistema solar fotovoltaica de 3 kW con una inversión de 4.500€. El incentivo que podría corresponderle es de 1.800€ (600 euros por kW), con lo que el coste neto es de 2700 €.
 
     
