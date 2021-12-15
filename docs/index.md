@@ -23,7 +23,7 @@
 ???+ " ¿Cuánto tardo en amortizar la inversion ?, 7 anos [Contáctanos :material-email:](Contacto){ .md-button .md-button--primary }"
 
     ![Image title](../img/generacion-carga.png){ width="200" align=left }
-    Depende de su capacidad para ajustar su consumo (gris en la figura) a las horas de sol (amarillos en la figura), del precio al que se hubiera comprado lo autoconsumido y vendido el excedente. Normalemnte la amortizaria  en 6.5 anos.
+    Depende de su capacidad para ajustar su consumo (gris en la figura) a las horas de sol (amarillos en la figura), de los precios a que se hubiera comprado lo autoconsumido y vendido el excedente. Normalemnte la amortizaria  en unos 7 anos.
 
 
 ???+ " ¿cuánto me ahorro?[Contáctanos :material-email:](Contacto){ .md-button .md-button--primary }"
